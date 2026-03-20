@@ -1,2 +1,3 @@
-# next-analytics-dashboard-evvh
-Automated issue comment bot repository
+# Next Analytics Dashboard Evvh
+
+Automated issue comment bot repository.
